@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/getDeclaredFields()和getField()的区别.md",
+                "file": "Java/Compare和Comparator的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/getDeclaredFields()和getField()的区别.md",
+                "file": "Java/Compare和Comparator的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/getDeclaredFields()和getField()的区别.md",
+                "file": "Java/Compare和Comparator的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/getDeclaredFields()和getField()的区别.md"
+                "file": "Java/Compare和Comparator的区别.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9f1093145816b9b3",
   "lastOpenFiles": [
-    "Java/Compare和Comparator的区别.md",
     "Java/getDeclaredFields()和getField()的区别.md",
+    "Java/Compare和Comparator的区别.md",
     "其它/无法加载文件 pnpm.ps1.md",
     "Java/解决JSP中日期中总是显示的带有T.md",
     "Layui/20230213.md",
