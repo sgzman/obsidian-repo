@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8bbea9425746843",
+            "id": "b7ed648c6f5f04fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java中的getSimpleName().md",
+                "file": "Java/使用try-with-resources优于try-finally.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java中的getSimpleName().md",
+                "file": "Java/使用try-with-resources优于try-finally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java中的getSimpleName().md",
+                "file": "Java/使用try-with-resources优于try-finally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java中的getSimpleName().md"
+                "file": "Java/使用try-with-resources优于try-finally.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8bbea9425746843",
+  "active": "b7ed648c6f5f04fd",
   "lastOpenFiles": [
     "Java/getDeclaredFields()和getField()的区别.md",
+    "Java/解决JSP中日期中总是显示的带有T.md",
+    "Java/使用try-with-resources优于try-finally.md",
     "Java/Java中的getSimpleName().md",
     "Java/Compare和Comparator的区别.md",
     "其它/无法加载文件 pnpm.ps1.md",
-    "Java/解决JSP中日期中总是显示的带有T.md",
     "Layui/20230213.md",
     "Layui/在地址上对中文参数encode.md",
     "其它",
