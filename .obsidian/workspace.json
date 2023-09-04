@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8fef6c99ba862c",
+        "id": "a09708e5e8eeb382",
         "type": "tabs",
         "children": [
           {
-            "id": "b41cb3d85dfa9c0c",
+            "id": "fdf1520fc4d558ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 8 Optional 类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "217e7748be15a310",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 8 Optional 类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 8 Optional 类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java 8 Optional 类.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "217e7748be15a310",
+  "active": "fdf1520fc4d558ce",
   "lastOpenFiles": [
-    "Layui/在地址上对中文参数encode.md",
     "Java/Java 8 Optional 类.md",
+    "Layui/在地址上对中文参数encode.md",
     "Layui/20230213.md",
     "Java/Java中的Objects.requireNonNull().md",
     "Java/Java中的Iterator迭代器.md",
