@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "217e7748be15a310",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b41cb3d85dfa9c0c",
+  "active": "217e7748be15a310",
   "lastOpenFiles": [
     "Layui/在地址上对中文参数encode.md",
     "Java/Java 8 Optional 类.md",
