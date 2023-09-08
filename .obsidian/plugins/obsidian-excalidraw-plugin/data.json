@@ -89,7 +89,7 @@
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
-  "taskboneAPIkey": "",
+  "taskboneAPIkey": "a5067839-e080-44b2-aa39-0b07fff232c8",
   "pinnedScripts": [],
   "customPens": [
     {
