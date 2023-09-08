@@ -11,8 +11,10 @@
             "id": "fdf1520fc4d558ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+              }
             }
           }
         ]
@@ -135,11 +141,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "fdf1520fc4d558ce",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+    "Excalidraw",
     "Java/Java 8 Optional 类.md",
     "Layui/在地址上对中文参数encode.md",
     "Layui/20230213.md",
