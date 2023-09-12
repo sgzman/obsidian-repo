@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c75a49462f034194",
+        "id": "29b256198d75122e",
         "type": "tabs",
         "children": [
           {
-            "id": "21984abab3ff35db",
+            "id": "bfc023e36f2ce90c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+                "file": "Java/设计模式/1、简单工厂模式.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+                "file": "Java/设计模式/1、简单工厂模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+                "file": "Java/设计模式/1、简单工厂模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+                "file": "Java/设计模式/1、简单工厂模式.md"
               }
             }
           }
@@ -148,10 +150,13 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "21984abab3ff35db",
+  "active": "bfc023e36f2ce90c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.png",
+    "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
+    "Java/设计模式/1、简单工厂模式.md",
+    "Java/设计模式",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.png",
     "Excalidraw/fonts/沐瑶随心手写体.ttf",
     "Excalidraw/fonts/STXINWEI.TTF",
     "Excalidraw/fonts",
