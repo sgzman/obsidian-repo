@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/1、简单工厂模式.md",
+                "file": "Java/设计模式/2、工厂模式.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fba673dda20e3574",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/1、简单工厂模式.md",
+                "file": "Java/设计模式/2、工厂模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/1、简单工厂模式.md",
+                "file": "Java/设计模式/2、工厂模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/1、简单工厂模式.md"
+                "file": "Java/设计模式/2、工厂模式.md"
               }
             }
           },
@@ -171,10 +160,14 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "fba673dda20e3574",
+  "active": "bfc023e36f2ce90c",
   "lastOpenFiles": [
-    "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
+    "Java/设计模式/assets/2、工厂模式/image-20230913092809035.png",
+    "Java/设计模式/2、工厂模式.md",
+    "Java/设计模式/assets/2、工厂模式",
+    "Java/设计模式/assets",
     "Java/设计模式/1、简单工厂模式.md",
+    "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
     "Java/设计模式",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.png",
@@ -198,7 +191,6 @@
     "其它",
     "README.md",
     "Layui",
-    "Java",
     "20230811.md",
     "2023-08-22.md"
   ]
