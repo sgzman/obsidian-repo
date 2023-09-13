@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fba673dda20e3574",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "Java/设计模式/1、简单工厂模式.md"
               }
             }
+          },
+          {
+            "id": "eb32da82ef65e62c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -150,7 +171,7 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "bfc023e36f2ce90c",
+  "active": "fba673dda20e3574",
   "lastOpenFiles": [
     "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
     "Java/设计模式/1、简单工厂模式.md",
