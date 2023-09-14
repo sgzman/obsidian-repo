@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/4、单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/4、单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/4、单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md"
+                "file": "Java/设计模式/4、单例模式.md"
               }
             }
           },
@@ -163,7 +163,12 @@
   "active": "bfc023e36f2ce90c",
   "lastOpenFiles": [
     "Java/设计模式/2、工厂模式.md",
+    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
+    "Java/设计模式/assets/3、抽象工厂模式/image-20230914092645774.png",
+    "Java/设计模式/assets/3、抽象工厂模式/image-20230914092633406.png",
+    "Java/设计模式/assets/3、抽象工厂模式/image-20230914092603238.png",
+    "Java/设计模式/assets/3、抽象工厂模式",
     "Java/设计模式/assets/2、工厂模式/image-20230913163506729.png",
     "Java/设计模式/assets/2、工厂模式/image-20230913092809035.png",
     "Java/设计模式/assets/2、工厂模式",
@@ -192,7 +197,6 @@
     "其它/无法加载文件 pnpm.ps1.md",
     "其它",
     "README.md",
-    "Layui",
     "20230811.md",
     "2023-08-22.md"
   ]
