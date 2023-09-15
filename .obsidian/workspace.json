@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29b256198d75122e",
+        "id": "177ead00262e549c",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc023e36f2ce90c",
+            "id": "26594b1614d6cd56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md"
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
               }
             }
           },
@@ -160,11 +158,11 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "bfc023e36f2ce90c",
+  "active": "26594b1614d6cd56",
   "lastOpenFiles": [
+    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/0、六大设计原则.md",
     "Java/设计模式/高内聚、低耦合.md",
-    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
     "Java/设计模式/assets/3、抽象工厂模式/image-20230914092645774.png",
