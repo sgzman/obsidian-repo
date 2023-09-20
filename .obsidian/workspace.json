@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "177ead00262e549c",
+        "id": "43359b737a2c4504",
         "type": "tabs",
         "children": [
           {
-            "id": "26594b1614d6cd56",
+            "id": "fa233d803fb1d346",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +153,9 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "26594b1614d6cd56",
+  "active": "fa233d803fb1d346",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
     "Java/设计模式/4、单例模式.md",
     "Java/设计模式/0、六大设计原则.md",
     "Java/设计模式/高内聚、低耦合.md",
@@ -177,7 +172,6 @@
     "Java/设计模式/1、简单工厂模式.md",
     "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
     "Java/设计模式",
-    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.png",
     "Excalidraw/fonts/沐瑶随心手写体.ttf",
     "Excalidraw/fonts/STXINWEI.TTF",
