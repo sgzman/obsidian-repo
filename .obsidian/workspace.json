@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
+                "file": "Java/设计模式/0、六大设计原则.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
+                "file": "Java/设计模式/0、六大设计原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md",
+                "file": "Java/设计模式/0、六大设计原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/4、单例模式.md"
+                "file": "Java/设计模式/0、六大设计原则.md"
               }
             }
           },
@@ -162,10 +162,10 @@
   },
   "active": "fa233d803fb1d346",
   "lastOpenFiles": [
+    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/高内聚、低耦合.md",
     "Java/设计模式/0、六大设计原则.md",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
-    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
     "Java/设计模式/assets/3、抽象工厂模式/image-20230914092645774.png",
