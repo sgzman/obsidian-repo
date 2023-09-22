@@ -2,6 +2,12 @@
 我觉得这篇公众号讲的挺好的，链接在下面
 [为什么你总是觉得设计模式很难？. (qq.com)](https://mp.weixin.qq.com/s/Phiab8CD80Zzqr3rCPe5vw)
 
+1. 单一职责原则（Single Responsibility Principle）
+2. 开闭原则（Open Closed Principle）
+3. 里氏替换原则（Liskov Substitution Principle）
+4. 接口隔离原则（Interface Segregation Principle）
+5. 依赖倒置原则（Dependence Inversion Principle）
+7. 迪米特原则（Law of Demeter）
 ### 一、单一职责原则（Single Responsibility Principle）
 
 > 一个类只负责一个功能领域中的相应职责
