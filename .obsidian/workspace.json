@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7ca9abec9ea818d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +171,7 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "fa233d803fb1d346",
+  "active": "f7ca9abec9ea818d",
   "lastOpenFiles": [
     "Java/设计模式/4、单例模式.md",
     "Java/设计模式/5、建造者模式.md",
