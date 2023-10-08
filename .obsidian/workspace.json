@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "43359b737a2c4504",
+        "id": "b12241f4a2e3675d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa233d803fb1d346",
+            "id": "cfb9f44790d5ae97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/5、建造者模式.md",
+                "file": "Java/设计模式/6、原型模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7ca9abec9ea818d",
+            "id": "6635a78f43b74945",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Java/设计模式/9、代理模式.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/5、建造者模式.md",
+                "file": "Java/设计模式/9、代理模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/5、建造者模式.md",
+                "file": "Java/设计模式/9、代理模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/5、建造者模式.md"
+                "file": "Java/设计模式/9、代理模式.md"
               }
             }
           },
@@ -171,10 +173,14 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "f7ca9abec9ea818d",
+  "active": "6635a78f43b74945",
   "lastOpenFiles": [
-    "Java/设计模式/4、单例模式.md",
+    "Java/设计模式/8、-结构型模式.md",
+    "Java/设计模式/9、代理模式.md",
+    "Java/设计模式/7、-创建型模式总结.md",
+    "Java/设计模式/6、原型模式.md",
     "Java/设计模式/5、建造者模式.md",
+    "Java/设计模式/4、单例模式.md",
     "Java/设计模式/0、六大设计原则（SOLID L）.md",
     "Java/设计模式/高内聚、低耦合.md",
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
@@ -210,8 +216,6 @@
     "Java/解决JSP中日期中总是显示的带有T.md",
     "其它/无法加载文件 pnpm.ps1.md",
     "其它",
-    "README.md",
-    "20230811.md",
-    "2023-08-22.md"
+    "README.md"
   ]
 }
