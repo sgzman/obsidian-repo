@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/12、装饰模式.md",
+                "file": "Java/设计模式/18、策略模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/12、装饰模式.md",
+                "file": "Java/设计模式/18、策略模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/12、装饰模式.md",
+                "file": "Java/设计模式/18、策略模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/12、装饰模式.md"
+                "file": "Java/设计模式/18、策略模式.md"
               }
             }
           },
@@ -175,13 +175,19 @@
   },
   "active": "6635a78f43b74945",
   "lastOpenFiles": [
+    "Java/设计模式/17、-行为型模式.md",
+    "Java/设计模式/18、策略模式.md",
+    "Java/设计模式/16、-结构型模式总结.md",
+    "Java/设计模式/15、享元模式.md",
+    "Java/设计模式/14、组合模式.md",
+    "Java/设计模式/13、门面模式.md",
+    "Java/设计模式/12、装饰模式.md",
     "Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
     "Java/设计模式/assets/12、装饰模式/image-20231010194118634.png",
     "Java/设计模式/assets/12、装饰模式/decorator-1.png",
     "Java/设计模式/assets/12、装饰模式/image-20231010193750865.png",
     "Java/设计模式/assets/12、装饰模式",
     "Java/设计模式/11、桥梁模式.md",
-    "Java/设计模式/12、装饰模式.md",
     "Java/设计模式/assets/11、桥梁模式/image-20231010192947928.png",
     "Java/设计模式/assets/11、桥梁模式",
     "Java/设计模式/10、适配器模式.md",
@@ -203,7 +209,6 @@
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
     "Java/设计模式/assets/3、抽象工厂模式/image-20230914092645774.png",
-    "Java/设计模式/assets/3、抽象工厂模式/image-20230914092633406.png",
     "Java/设计模式/assets/3、抽象工厂模式",
     "Java/设计模式/assets/2、工厂模式",
     "Java/设计模式/assets",
@@ -215,11 +220,6 @@
     "Java/Java 8 Optional 类.md",
     "Layui/在地址上对中文参数encode.md",
     "Layui/20230213.md",
-    "Java/Java中的Objects.requireNonNull().md",
-    "Java/Java中的Iterator迭代器.md",
-    "Java/Java中的getDeclaredFields()和getField()的区别.md",
-    "Java/Java中的getSimpleName().md",
-    "Java/Java中的Compare和Comparator的区别.md",
-    "Java/Java 8 Predicate 函数接口.md"
+    "Java/Java中的Objects.requireNonNull().md"
   ]
 }
