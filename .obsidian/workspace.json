@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43368a56e02744bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/设计模式/18、策略模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +185,7 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "6635a78f43b74945",
+  "active": "43368a56e02744bd",
   "lastOpenFiles": [
     "Java/设计模式/17、-行为型模式.md",
     "Java/设计模式/18、策略模式.md",
