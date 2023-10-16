@@ -187,6 +187,9 @@
   },
   "active": "43368a56e02744bd",
   "lastOpenFiles": [
+    "Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
+    "Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
+    "Java/设计模式/assets/18、策略模式",
     "Java/设计模式/17、-行为型模式.md",
     "Java/设计模式/18、策略模式.md",
     "Java/设计模式/16、-结构型模式总结.md",
@@ -220,7 +223,6 @@
     "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
-    "Java/设计模式/assets/3、抽象工厂模式/image-20230914092645774.png",
     "Java/设计模式/assets/3、抽象工厂模式",
     "Java/设计模式/assets/2、工厂模式",
     "Java/设计模式/assets",
@@ -228,10 +230,8 @@
     "Java/设计模式/Drawing 2023-09-12 17.08.12.excalidraw.md",
     "Java/设计模式",
     "Excalidraw/fonts/沐瑶随心手写体.ttf",
-    "Excalidraw/fonts/STXINWEI.TTF",
     "Java/Java 8 Optional 类.md",
     "Layui/在地址上对中文参数encode.md",
-    "Layui/20230213.md",
-    "Java/Java中的Objects.requireNonNull().md"
+    "Layui/20230213.md"
   ]
 }
