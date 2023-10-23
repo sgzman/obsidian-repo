@@ -11,11 +11,9 @@
             "id": "e744b5ee04ae8c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Java/设计模式/19、观察者模式.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/19、观察者模式.md",
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/19、观察者模式.md",
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/19、观察者模式.md"
+                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
               }
             }
           },
@@ -162,8 +160,8 @@
   },
   "active": "e744b5ee04ae8c4e",
   "lastOpenFiles": [
-    "Java/设计模式/18、策略模式.md",
     "Java/设计模式/19、观察者模式.md",
+    "Java/设计模式/18、策略模式.md",
     "Java/设计模式/6、原型模式.md",
     "Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
     "Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
