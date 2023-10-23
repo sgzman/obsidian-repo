@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "46666f15c2ac2aa4",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md"
               }
             }
           },
@@ -152,14 +153,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false
+      "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e744b5ee04ae8c4e",
+  "active": "7cc7c2065b1b8c48",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md",
     "Java/设计模式/19、观察者模式.md",
     "Java/设计模式/18、策略模式.md",
     "Java/设计模式/6、原型模式.md",
@@ -193,7 +196,6 @@
     "Java/设计模式/4、单例模式.md",
     "Java/设计模式/0、六大设计原则（SOLID L）.md",
     "Java/设计模式/高内聚、低耦合.md",
-    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
     "Java/设计模式/assets/3、抽象工厂模式",
@@ -204,7 +206,6 @@
     "Java/设计模式",
     "Excalidraw/fonts/沐瑶随心手写体.ttf",
     "Java/Java 8 Optional 类.md",
-    "Layui/在地址上对中文参数encode.md",
-    "Layui/20230213.md"
+    "Layui/在地址上对中文参数encode.md"
   ]
 }
