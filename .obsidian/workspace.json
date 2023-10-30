@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/00、设计模式-关键字理解.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/00、设计模式-关键字理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md",
+                "file": "Java/设计模式/00、设计模式-关键字理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/设计模式/3、抽象工厂模式.md"
+                "file": "Java/设计模式/00、设计模式-关键字理解.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "fb3769e7fbbfc6a3",
   "lastOpenFiles": [
-    "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/3、抽象工厂模式.md",
+    "Java/设计模式/00、设计模式-关键字理解.md",
+    "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/1、简单工厂模式.md",
     "Layui/20230213.md",
     "Java/设计模式/23、-行为型模式总结.md",
@@ -202,7 +203,6 @@
     "Java/设计模式/assets/9、代理模式",
     "Java/设计模式/8、-结构型模式.md",
     "Java/设计模式/7、-创建型模式总结.md",
-    "Java/设计模式/5、建造者模式.md",
     "Java/设计模式/assets/3、抽象工厂模式",
     "Java/设计模式/assets/2、工厂模式",
     "Java/设计模式/assets",
