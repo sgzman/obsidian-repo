@@ -1,3 +1,4 @@
+> [[2023-11-15]]
 ### 前言
 	本地环境：Windows11、VS2022
 	编译项目：ASP.NET CORE Web项目，框架为NET7
@@ -43,4 +44,4 @@ https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_v
 
 ### 总结
 
-实际解决的步骤也不一定是上述的办法，也有可能迷迷糊糊之中就解决了，也有可能是缺少某个Windows KB修复包，但是好在有了这个记录日志，希望以后能更加顺利的解决。
+实际解决的步骤也不一定是上述的办法，也有可能迷迷糊糊之中就解决了，也有可能是缺少某个Windows KB补丁包，但是好在有了这个记录日志，希望以后能更加顺利的解决。
