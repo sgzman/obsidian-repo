@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bb67023d752a98",
+        "id": "a45bfe41bb360c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "5fdd742cfb05db85",
+            "id": "4aa6ecab3202702a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -160,16 +154,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5fdd742cfb05db85",
+  "active": "7cc7c2065b1b8c48",
   "lastOpenFiles": [
+    "前端",
+    "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
+    "未命名.md",
     "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095132833.png",
     "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095118169.png",
     "README.md",
-    "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
     "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115094208622.png",
     "Windows/教程/assets",
     "Windows/教程",
-    "未命名",
     "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境",
     "assets",
     "Windows",
@@ -179,7 +174,7 @@
     "Java/设计模式/3、抽象工厂模式.md",
     "Java/设计模式/2、工厂模式.md",
     "Java/设计模式/1、简单工厂模式.md",
-    "Layui/20230213.md",
+    "前端/Layui/20230213.md",
     "Java/设计模式/23、-行为型模式总结.md",
     "Java/设计模式/24、-总结.md",
     "Java/设计模式/22、状态模式.md",
@@ -205,8 +200,6 @@
     "Java/设计模式/11、桥梁模式.md",
     "Java/设计模式/assets/11、桥梁模式/image-20231010192947928.png",
     "Java/设计模式/assets/11、桥梁模式",
-    "Java/设计模式/10、适配器模式.md",
-    "Java/设计模式/assets/10、适配器模式/image-20231010191731902.png",
     "Java/设计模式/assets/10、适配器模式"
   ]
 }
