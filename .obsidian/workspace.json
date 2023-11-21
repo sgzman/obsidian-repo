@@ -11,8 +11,12 @@
             "id": "4aa6ecab3202702a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "其它/生活/我的升降桌之选购攻略.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "其它/生活/我的升降桌之选购攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "其它/生活/我的升降桌之选购攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "其它/生活/我的升降桌之选购攻略.md"
               }
             }
           },
@@ -154,52 +160,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7cc7c2065b1b8c48",
+  "active": "4aa6ecab3202702a",
   "lastOpenFiles": [
-    "前端",
-    "Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
     "未命名.md",
-    "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095132833.png",
-    "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095118169.png",
+    "其它/生活/我的升降桌之选购攻略.md",
+    "其它/生活",
+    "未命名",
+    "后端",
+    "前端",
+    "其它/Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
+    "其它/Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095132833.png",
+    "其它/Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115095118169.png",
     "README.md",
-    "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115094208622.png",
-    "Windows/教程/assets",
-    "Windows/教程",
-    "Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境",
+    "其它/Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境/image-20231115094208622.png",
+    "其它/Windows/教程/assets",
+    "其它/Windows/教程",
+    "其它/Windows/教程/assets/Windows Server 2012安装ASP.NET CORE IIS 部署环境",
     "assets",
-    "Windows",
-    "Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md",
-    "Java/设计模式/00、设计模式-关键字理解.md",
-    "Java/设计模式/3、抽象工厂模式.md",
-    "Java/设计模式/2、工厂模式.md",
-    "Java/设计模式/1、简单工厂模式.md",
+    "其它/Windows",
+    "其它/Excalidraw/Drawing 2023-09-08 13.16.01.excalidraw.md",
+    "其它/Excalidraw/Drawing 2023-10-23 09.25.06.excalidraw.md",
+    "后端/Java/设计模式/00、设计模式-关键字理解.md",
+    "后端/Java/设计模式/3、抽象工厂模式.md",
+    "后端/Java/设计模式/2、工厂模式.md",
+    "后端/Java/设计模式/1、简单工厂模式.md",
     "前端/Layui/20230213.md",
-    "Java/设计模式/23、-行为型模式总结.md",
+    "后端/Java/设计模式/23、-行为型模式总结.md",
     "Java/设计模式/24、-总结.md",
-    "Java/设计模式/22、状态模式.md",
-    "Java/设计模式/21、模板方法模式.md",
-    "Java/设计模式/20、责任链模式.md",
-    "Java/设计模式/19、观察者模式.md",
-    "Java/设计模式/18、策略模式.md",
-    "Java/设计模式/6、原型模式.md",
-    "Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
-    "Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
-    "Java/设计模式/assets/18、策略模式",
-    "Java/设计模式/17、-行为型模式.md",
-    "Java/设计模式/16、-结构型模式总结.md",
-    "Java/设计模式/15、享元模式.md",
-    "Java/设计模式/14、组合模式.md",
-    "Java/设计模式/13、门面模式.md",
-    "Java/设计模式/12、装饰模式.md",
-    "Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
-    "Java/设计模式/assets/12、装饰模式/image-20231010194118634.png",
-    "Java/设计模式/assets/12、装饰模式/decorator-1.png",
-    "Java/设计模式/assets/12、装饰模式/image-20231010193750865.png",
-    "Java/设计模式/assets/12、装饰模式",
-    "Java/设计模式/11、桥梁模式.md",
-    "Java/设计模式/assets/11、桥梁模式/image-20231010192947928.png",
-    "Java/设计模式/assets/11、桥梁模式",
-    "Java/设计模式/assets/10、适配器模式"
+    "后端/Java/设计模式/22、状态模式.md",
+    "后端/Java/设计模式/21、模板方法模式.md",
+    "后端/Java/设计模式/20、责任链模式.md",
+    "后端/Java/设计模式/19、观察者模式.md",
+    "后端/Java/设计模式/18、策略模式.md",
+    "后端/Java/设计模式/6、原型模式.md",
+    "后端/Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
+    "后端/Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
+    "后端/Java/设计模式/assets/18、策略模式",
+    "后端/Java/设计模式/17、-行为型模式.md",
+    "后端/Java/设计模式/16、-结构型模式总结.md",
+    "后端/Java/设计模式/15、享元模式.md",
+    "后端/Java/设计模式/14、组合模式.md",
+    "后端/Java/设计模式/13、门面模式.md",
+    "后端/Java/设计模式/12、装饰模式.md",
+    "后端/Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
+    "后端/Java/设计模式/assets/12、装饰模式/image-20231010194118634.png",
+    "后端/Java/设计模式/assets/12、装饰模式/decorator-1.png",
+    "后端/Java/设计模式/assets/12、装饰模式/image-20231010193750865.png",
+    "后端/Java/设计模式/11、桥梁模式.md",
+    "后端/Java/设计模式/assets/11、桥梁模式/image-20231010192947928.png"
   ]
 }
