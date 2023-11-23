@@ -45,3 +45,9 @@ https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_v
 ### 总结
 
 实际解决的步骤也不一定是上述的办法，也有可能迷迷糊糊之中就解决了，也有可能是缺少某个Windows KB补丁包，但是好在有了这个记录日志，希望以后能更加顺利的解决。
+
+
+
+--2023-11-21更新
+为了同时启用身份验证，需要参考如下链接进行设置
+[在 ASP.NET Core 中配置 Windows 身份验证 | Microsoft Learn](https://learn.microsoft.com/zh-cn/aspnet/core/security/authentication/windowsauth?view=aspnetcore-7.0&tabs=visual-studio)
