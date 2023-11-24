@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f109161bfa94b554",
+        "id": "1e4606c854116ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc637c043ccef650",
+            "id": "77900d0a4477a48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其它/Windows/教程/Windows Server 2012部署ASP.NET FORM项目.md",
+                "file": "其它/生活/我的升降桌之选购攻略.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其它/Windows/教程/Windows Server 2012部署ASP.NET FORM项目.md",
+                "file": "其它/生活/我的升降桌之选购攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其它/Windows/教程/Windows Server 2012部署ASP.NET FORM项目.md",
+                "file": "其它/生活/我的升降桌之选购攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其它/Windows/教程/Windows Server 2012部署ASP.NET FORM项目.md"
+                "file": "其它/生活/我的升降桌之选购攻略.md"
               }
             }
           },
@@ -160,7 +160,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc637c043ccef650",
+  "active": "77900d0a4477a48e",
   "lastOpenFiles": [
     "其它/Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
     "其它/Windows/教程/Windows Server 2012部署ASP.NET FORM项目.md",
