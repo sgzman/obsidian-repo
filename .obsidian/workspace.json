@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/Java/Java中得super方法.md",
+                "file": "后端/Java/Java中的super方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/Java/Java中得super方法.md",
+                "file": "后端/Java/Java中的super方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/Java/Java中得super方法.md",
+                "file": "后端/Java/Java中的super方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/Java/Java中得super方法.md"
+                "file": "后端/Java/Java中的super方法.md"
               }
             }
           },
@@ -163,7 +163,7 @@
   "active": "37131a3f09263a24",
   "lastOpenFiles": [
     "后端/Java/设计模式/4、单例模式.md",
-    "后端/Java/Java中得super方法.md",
+    "后端/Java/Java中的super方法.md",
     "后端/Java/设计模式/5、建造者模式.md",
     "其它/生活/我的升降桌之--选购攻略.md",
     "其它/Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
