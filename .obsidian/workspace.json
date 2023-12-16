@@ -11,8 +11,12 @@
             "id": "78968dfe8a8736a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "后端/Java/Java中的ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "后端/Java/Java中的ThreadLocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "后端/Java/Java中的ThreadLocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "后端/Java/Java中的ThreadLocal.md"
+              }
             }
           },
           {
@@ -148,12 +156,14 @@
       "command-palette:打开命令面板": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
       "privacy-glasses:Reveal all": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "78968dfe8a8736a4",
   "lastOpenFiles": [
+    "后端/Java/Java中的ThreadLocal.md",
     "其它/Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
     "后端/Java/Java中的super方法.md",
     "后端/Java/设计模式/4、单例模式.md",
@@ -194,7 +204,6 @@
     "后端/Java/设计模式/assets/18、策略模式",
     "后端/Java/设计模式/17、-行为型模式.md",
     "后端/Java/设计模式/16、-结构型模式总结.md",
-    "后端/Java/设计模式/15、享元模式.md",
     "后端/Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
     "后端/Java/设计模式/assets/12、装饰模式/image-20231010194118634.png",
     "后端/Java/设计模式/assets/12、装饰模式/decorator-1.png",
