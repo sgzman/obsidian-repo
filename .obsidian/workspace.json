@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b19a9072b373fa40",
+        "id": "6bcd31c45dfc7c40",
         "type": "tabs",
         "children": [
           {
-            "id": "78968dfe8a8736a4",
+            "id": "54a81d8dda0a7eb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "后端/Java/Java中的ThreadLocal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/Java/Java中的ThreadLocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/Java/Java中的ThreadLocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "后端/Java/Java中的ThreadLocal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -161,8 +155,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "78968dfe8a8736a4",
+  "active": "54a81d8dda0a7eb8",
   "lastOpenFiles": [
+    "后端/Java/未命名.md",
+    "其它/Flowable",
     "后端/Java/Java中的ThreadLocal.md",
     "其它/Windows/教程/Windows Server 2012安装ASP.NET CORE IIS 部署环境.md",
     "后端/Java/Java中的super方法.md",
@@ -201,9 +197,6 @@
     "后端/Java/设计模式/6、原型模式.md",
     "后端/Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
     "后端/Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
-    "后端/Java/设计模式/assets/18、策略模式",
-    "后端/Java/设计模式/17、-行为型模式.md",
-    "后端/Java/设计模式/16、-结构型模式总结.md",
     "后端/Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
     "后端/Java/设计模式/assets/12、装饰模式/image-20231010194118634.png",
     "后端/Java/设计模式/assets/12、装饰模式/decorator-1.png",
