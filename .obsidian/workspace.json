@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6bcd31c45dfc7c40",
+        "id": "5c7c92fb92c6d265",
         "type": "tabs",
         "children": [
           {
-            "id": "54a81d8dda0a7eb8",
+            "id": "eef5eebae468688f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/授权表权限.md",
+                "file": "其它/Flowable/SpringBoot 2.2.1 集成 Flowable 6.8.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/授权表权限.md",
+                "file": "其它/Flowable/SpringBoot 2.2.1 集成 Flowable 6.8.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/授权表权限.md",
+                "file": "其它/Flowable/SpringBoot 2.2.1 集成 Flowable 6.8.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/授权表权限.md"
+                "file": "其它/Flowable/SpringBoot 2.2.1 集成 Flowable 6.8.0.md"
               }
             }
           },
@@ -163,8 +163,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "54a81d8dda0a7eb8",
+  "active": "eef5eebae468688f",
   "lastOpenFiles": [
+    "其它/Flowable/SpringBoot 2.2.1 集成 Flowable 6.8.0.md",
     "SQL/授权表权限.md",
     "SQL",
     "后端/Java/未命名.md",
@@ -203,7 +204,6 @@
     "后端/Java/设计模式/20、责任链模式.md",
     "后端/Java/设计模式/19、观察者模式.md",
     "后端/Java/设计模式/18、策略模式.md",
-    "后端/Java/设计模式/6、原型模式.md",
     "后端/Java/设计模式/assets/18、策略模式/image-20231016173002888.png",
     "后端/Java/设计模式/assets/18、策略模式/image-20231016172947673.png",
     "后端/Java/设计模式/assets/12、装饰模式/image-20231010194131978.png",
