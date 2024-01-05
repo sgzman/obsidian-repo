@@ -1,11 +1,15 @@
 1、在pom.xml中引入flowable包
 
 ```xml
+<properties>  
+    <flowable.version>6.8.0</flowable.version>  
+</properties>
+
 <!-- https://mvnrepository.com/artifact/org.flowable/flowable-spring-boot-starter -->  
 <dependency>  
     <groupId>org.flowable</groupId>  
     <artifactId>flowable-spring-boot-starter</artifactId>  
-    <version>6.8.0</version>  
+    <version>${flowable.version}</version>  
 </dependency>
 ```
 
@@ -18,6 +22,31 @@ flowable:
   database-schema-update: true
 ```
 
+3、在pom.xml中添加flowable ui 包
+
+```xml
+<!--flowable UI设计器-->  
+<dependency>  
+    <groupId>org.flowable</groupId>  
+    <artifactId>flowable-spring-boot-starter-ui-modeler</artifactId>  
+    <version>${flowable.version}</version>  
+</dependency>  
+<dependency>  
+    <groupId>org.flowable</groupId>  
+    <artifactId>flowable-spring-boot-starter-ui-admin</artifactId>  
+    <version>${flowable.version}</version>  
+</dependency>  
+<dependency>  
+    <groupId>org.flowable</groupId>  
+    <artifactId>flowable-spring-boot-starter-ui-idm</artifactId>  
+    <version>${flowable.version}</version>  
+</dependency>  
+<dependency>  
+    <groupId>org.flowable</groupId>  
+    <artifactId>flowable-spring-boot-starter-ui-task</artifactId>  
+    <version>${flowable.version}</version>  
+</dependency>
+```
 
 
 
@@ -32,3 +61,6 @@ flowable:
 这是因为执行建表的Sql时出错了，我的解决办法是手动删除已建立的部分ACT_和FLW_表，再去把war包中的Sql语句拿到数据库中执行。
 
 2、完成上面1、2 后，启动系统无法登录进入系统
+
+
+3、运行项目时，command line is too long。Shorten the command line via JAR manifest or via a classpath file and rerun。
