@@ -17,3 +17,15 @@ flowable:
   #  将databaseSchemaUpdate设置为true。当Flowable发现库与数据库表结构不一致时，会自动将数据库表结构升级至新版本。  
   database-schema-update: true
 ```
+
+
+
+
+
+
+
+
+
+
+可能遇到的问题：
+1、ORA-00955: 名称已由现有对象使用
