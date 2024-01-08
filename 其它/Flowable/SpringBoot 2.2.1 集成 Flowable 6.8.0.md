@@ -64,3 +64,37 @@ flowable:
 
 
 3、运行项目时，command line is too long。Shorten the command line via JAR manifest or via a classpath file and rerun。
+根据搜索引擎得知在.idea文件夹中的workspace.xml中的PropertiesComponent下面添加"dynamic.classpath": "true"
+
+4、forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync and/or @EnableCaching.
+在对应的配置类上面添加下面两个注解
+@EnableCaching(proxyTargetClass = true) //开启支持缓存的注解 并基于类进行代理
+@EnableAsync(proxyTargetClass = true) //开启对异步任务的支持 
+
+5、SELECT LOCKED FROM EIPUSER.ACT_CO_DATABASECHANGELOGLOCK WHERE ID=1 FOR UPDATE
+在数据库中执行
+
+```sql
+select o.owner,  
+       o.object_name,  
+       s.username,  
+       l.object_id,  
+       l.session_id,  
+       s.serial#,  
+       s.lockwait,  
+       s.status,  
+       s.machine,  
+       s.program  
+  from v$session s, v$locked_object l, dba_objects o  
+ where s.sid = l.session_id  
+   and l.object_id = o.object_id;
+```
+
+显示为1
+执行下列Sql进行解锁
+
+```sql
+alter system kill session 'sid,serial';  
+  
+alter system kill session '74,25391' immediate;
+```
