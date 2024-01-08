@@ -98,3 +98,11 @@ alter system kill session 'sid,serial';
   
 alter system kill session '74,25391' immediate;
 ```
+
+5、控制台报出下列错误
+~~~java
+Error creating bean with name 'idmSecurityConfiguration': Unsatisfied dependency expressed through field 'identityService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'idmIdentityService' defined in class path resource [org/flowable/spring/boot/idm/IdmEngineServicesAutoConfiguration.class]: Unsatisfied dependency expressed through method 'idmIdentityService' parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'idmEngine' defined in class path resource [org/flowable/spring/boot/idm/IdmEngineServicesAutoConfiguration$AlreadyInitializedAppEngineConfiguration.class]: Unsatisfied dependency expressed through method 'idmEngine' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'flowableAppEngine': FactoryBean threw exception on object creation; nested exception is org.flowable.common.engine.api.FlowableException: Error initialising content data model
+~~~
+
+在启动类上添加这个注解
+`@SpringBootApplication(exclude = {FlowableUiSecurityAutoConfiguration.class})`
