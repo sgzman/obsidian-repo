@@ -1,8 +1,10 @@
+[springboot和flowable对应说明](https://blog.csdn.net/linfen1520/article/details/103213059)
+
 1、在pom.xml中引入flowable包
 
 ```xml
 <properties>  
-    <flowable.version>6.8.0</flowable.version>  
+    <flowable.version>6.4.2</flowable.version>  
 </properties>
 
 <!-- https://mvnrepository.com/artifact/org.flowable/flowable-spring-boot-starter -->  
